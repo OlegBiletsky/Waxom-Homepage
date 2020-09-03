@@ -1,0 +1,20 @@
+/********** Header   ************/ 
+      Top-panel+ gallery carousel
+
+/********** Product block ***************/
+
+/********** Latest projects **************/
+
+/********** Video advertising *************/
+
+/********** Static advertising ***********/
+
+/********** Our pride ***************/
+
+/********** Posts  *******************/
+
+/********** Our partners *************/
+
+/********** Footer ****************/
+
+/********** Bottom-panel ************/

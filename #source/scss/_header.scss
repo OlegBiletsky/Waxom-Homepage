@@ -1,11 +1,11 @@
 .header {
     height: 1024px;
     width: 100%;
-    background-color: rgb(84, 83, 76);
+    
     background: url("/img/photo.png") no-repeat;
     block-size: cover;
     background-position: 50%;
-    background-color: rgba(106, 105, 83, 0.576);
+    background-color: rgb(138, 138, 127);
 }
 .main-container {}
 
@@ -15,11 +15,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: rgb(42, 214, 27);
 }
 .header__logo{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    // background-color: rgb(231, 119, 119);
     
 }
 .main-logo {
@@ -40,6 +42,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    // background-color: rgb(71, 208, 221);
 }
 .header__navlink {
     color: rgb(255, 255, 255);
@@ -58,6 +61,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    // background-color: rgb(236, 79, 236);
 }
 .header__link {
     
@@ -74,9 +78,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    // position: absolute;
     text-align: center;
     margin-top: 285px;
+    // background-color: rgb(219, 140, 51);
 }
 .header__subtitle {
     color: rgb(255, 255, 255);

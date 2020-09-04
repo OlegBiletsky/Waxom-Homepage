@@ -1,6 +1,7 @@
 .product-block {
     min-height: 1073px;
     width: 100%;
+    background-color: rgb(147, 141, 141);
 }
 .main-container {}
 
@@ -9,11 +10,14 @@
     justify-content: space-between;
     margin: 0 auto;
     align-items: center;
+    text-align: center;
     padding-top: 80px;
     padding-bottom: 163px;
+    // background-color: rgb(135, 236, 92);
 }
 .products__item {
     max-width: 266px;
+    // background-color: rgb(209, 203, 82);
 }
 .products__logo {
     height: 44px;
@@ -47,6 +51,7 @@
     margin: 0 auto;
     align-items: center;
     flex-direction: column;
+    // background-color: rgb(158, 67, 188);
 }
 .products_descr-title {
     color: #555555;
@@ -62,6 +67,7 @@
     font-weight: 300;
     line-height: 28px;
     margin-bottom: 40px;
+    text-align: center;
 }
 .products_descr-img {
     height: 482px;
